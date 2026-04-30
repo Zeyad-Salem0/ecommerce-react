@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "main": "https://github.com/Zeyad-Salem0/ecommerce-react.git",
+  "homepage": "https://github.com/Zeyad-Salem0/ecommerce-react.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
